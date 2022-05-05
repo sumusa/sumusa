@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-I'm a Data Scientist based in Canada who is passionate about using data to improve health outcomes. Utilizing my physiotherapy background, I assist health research initiatives in analyzing and interpreting structured and unstructured data in order to develop data-driven solutions. I'm currently using machine learning in R to improve the accuracy of accelerometers and wearable devices in identifying physical activity. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
+I'm a Data Scientist based in Canada who is passionate about using data to improve health outcomes. Utilizing my physiotherapy background, I assist health research initiatives in analyzing and interpreting structured and unstructured data in order to develop data-driven solutions. 
+
+I'm currently using machine learning in R to improve the accuracy of accelerometers and wearable devices in identifying physical activity. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
 
 
-
+### Tech Stack
+![Imgur](https://i.imgur.com/sIi9nVf.png) ![Imgur](https://i.imgur.com/EPMyISA.png) ![Imgur](https://i.imgur.com/TyohfK4.png) ![Imgur](https://i.imgur.com/NJAjYck.png) ![Imgur](https://i.imgur.com/Lf5r8F9.png) ![Imgur](https://i.imgur.com/3ue3CVl.png) ![Imgur](https://i.imgur.com/ECXPijU.png) ![Imgur](https://i.imgur.com/hqPeMgM.png)
 
 <!--
 **sumusa/sumusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
