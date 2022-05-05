@@ -10,7 +10,7 @@ I'm currently using machine learning in R to improve the accuracy of acceleromet
 [![Imgur](https://i.imgur.com/C1CYjLn.png)](https://twitter.com/bint_musa_) [![Imgur](https://i.imgur.com/e4kdLvk.png)](https://www.linkedin.com/in/sumayyahmusa/) [![Imgur](https://i.imgur.com/GUv4w1E.png)](mailto:physiosummy@gmail.com)
 
 
-## Tech Stack
+## Tech Stacks 💻 
 ![Imgur](https://i.imgur.com/sIi9nVf.png) ![Imgur](https://i.imgur.com/EPMyISA.png) ![Imgur](https://i.imgur.com/TyohfK4.png) ![Imgur](https://i.imgur.com/NJAjYck.png) ![Imgur](https://i.imgur.com/Lf5r8F9.png) ![Imgur](https://i.imgur.com/3ue3CVl.png) ![Imgur](https://i.imgur.com/AsgTUR6.png) ![Imgur](https://i.imgur.com/ECXPijU.png) ![Imgur](https://i.imgur.com/hqPeMgM.png)
 
 
@@ -19,7 +19,7 @@ I'm currently using machine learning in R to improve the accuracy of acceleromet
 
 
 
-## Publications
+## Publications 📑 
 
 - [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
 
