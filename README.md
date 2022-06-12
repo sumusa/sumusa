@@ -16,12 +16,12 @@ I'm currently using machine learning in R to improve the accuracy of acceleromet
 
 ## Projects 
 
-#### [Physical Activity Behaviours of Older Adults] • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
+### Physical Activity Behaviours of Older Adults • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
 
 This project examines the relationship between exercise barriers, motivation to exercise, exercise self-efficacy and the level of participation in leisure physical activity of older adults in Canada. It also uses these variables to predict the number of times an older adult would participate in physical activity for more than 15 minutes in a given week. The final regression model's F-ratio was 8.2.
 
 
-#### [Effects of guided imagery, yoga and placebo on Stress] • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/anova.md)
+### Effects of guided imagery, yoga and placebo on Stress • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/anova.md)
 The project's goal was to examine the effects of placebo, guided imagery and yoga on the stress level of individuals. The participants were divided into three groups and received either of the three interventions - placebo, guided imagery or yoga for six months, after which their stress level was measured and given a score. There was a total of 30 participants, 10 in each group.
 The ANOVA analysis showed that yoga was the most beneficial form of reducing stress levels. Participants in the placebo group had the highest stress scores, while those in the yoga group had the lowest stress scores. The difference between yoga and guided imagery was not statistically significant, even though it was clinically significant.
 
@@ -30,7 +30,9 @@ The ANOVA analysis showed that yoga was the most beneficial form of reducing str
 
 - [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
 
-- _(Submitted)_ Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review (2022). Musa S, Ellis R, Chafe B, Sturrock S L, Maher R A, Kim K, Fuller D. 
+- _(Submitted)_ Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review (2022). __Musa S__, Ellis R, Chafe B, Sturrock S L, Maher R A, Kim K, Fuller D. 
+
+- _(Submitted)_ Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition (2022) Authors: Arnab Barua, Daniel Fuller, __Musa Sumayyah Bamidele__, Xianta Jiang
 
 
 
