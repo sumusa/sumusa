@@ -16,11 +16,14 @@ I'm currently using machine learning in R to improve the accuracy of acceleromet
 
 ## Projects 
 
-#### Physical Activity Behaviours of Older Adults • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
+#### [Physical Activity Behaviours of Older Adults] • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
 
 This project examines the relationship between exercise barriers, motivation to exercise, exercise self-efficacy and the level of participation in leisure physical activity of older adults in Canada. It also uses these variables to predict the number of times an older adult would participate in physical activity for more than 15 minutes in a given week. The final regression model's F-ratio was 8.2.
 
-#### [Physical Activity Behaviours of Older Adults](https://www.upwork.com/freelancers/~01b5e2bae92547582d?s=1110580752008335360&p=1499383337800630272) • [R Notebook]()
+
+#### [Effects of guided imagery, yoga and placebo on Stress] • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/anova.md)
+The project's goal was to examine the effects of placebo, guided imagery and yoga on the stress level of individuals. The participants were divided into three groups and received either of the three interventions - placebo, guided imagery or yoga for six months, after which their stress level was measured and given a score. There was a total of 30 participants, 10 in each group.
+The ANOVA analysis showed that yoga was the most beneficial form of reducing stress levels. Participants in the placebo group had the highest stress scores, while those in the yoga group had the lowest stress scores. The difference between yoga and guided imagery was not statistically significant, even though it was clinically significant.
 
 
 ## Publications
