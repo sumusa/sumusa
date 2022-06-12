@@ -2,7 +2,7 @@
 
 I'm a Data Scientist based in Canada who is passionate about using data to improve health outcomes. Utilizing my physiotherapy background, I assist health research initiatives in analyzing and interpreting structured and unstructured data in order to develop data-driven solutions. 
 
-I'm in the process of completing a masters degree in Kinesiology, where my thesis is based on using machine learning in R to improve the accuracy of accelerometers and wearable devices in identifying physical activity. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
+I'm in the process of completing my masters degree in Kinesiology, where my thesis is based on using machine learning in R to improve the accuracy of accelerometers and wearable devices in identifying physical activity. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
 
 
 ### Connect with me!
