@@ -16,11 +16,11 @@ I'm currently using machine learning in R to improve the accuracy of acceleromet
 
 ## Projects 
 
-#### [Physical Activity Behaviours of Older Adults]() • [R Notebook]()
+#### Physical Activity Behaviours of Older Adults • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
 
-This project examines the relationship between exercise barriers, motivation to exercise, exercise self-efficacy and the level of participation in leisure physical activity of older adults in Canada. It also uses these variables to predict the number of times an older adult would participate in physical activity for more than 15 minutes in a given week. The final regression model's RMSE was 7.
+This project examines the relationship between exercise barriers, motivation to exercise, exercise self-efficacy and the level of participation in leisure physical activity of older adults in Canada. It also uses these variables to predict the number of times an older adult would participate in physical activity for more than 15 minutes in a given week. The final regression model's F-ratio was 8.2.
 
-
+#### [Physical Activity Behaviours of Older Adults](https://www.upwork.com/freelancers/~01b5e2bae92547582d?s=1110580752008335360&p=1499383337800630272) • [R Notebook]()
 
 
 ## Publications
