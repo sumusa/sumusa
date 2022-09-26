@@ -10,8 +10,13 @@ I'm in the process of completing my masters degree in Kinesiology, where my thes
 [![Imgur](https://i.imgur.com/C1CYjLn.png)](https://twitter.com/bint_musa_) [![Imgur](https://i.imgur.com/e4kdLvk.png)](https://www.linkedin.com/in/sumayyahmusa/) [![Imgur](https://i.imgur.com/GUv4w1E.png)](mailto:physiosummy@gmail.com)
 
 
-## Tech Stacks 
-![Imgur](https://i.imgur.com/sIi9nVf.png) ![Imgur](https://i.imgur.com/EPMyISA.png) ![Imgur](https://i.imgur.com/TyohfK4.png) ![Imgur](https://i.imgur.com/NJAjYck.png) ![Imgur](https://i.imgur.com/Lf5r8F9.png) ![Imgur](https://i.imgur.com/3ue3CVl.png) ![Imgur](https://i.imgur.com/AsgTUR6.png) ![Imgur](https://i.imgur.com/ECXPijU.png) ![Imgur](https://i.imgur.com/hqPeMgM.png)
+## Tools I use
+* Python (4 years)
+* R (3 years)
+* SQL (2 years)
+* Tableau (2 years)
+* Spreadsheets 
+* Git
 
 
 ## Projects 
