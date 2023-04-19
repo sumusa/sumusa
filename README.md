@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm a Data Scientist based in Canada who is passionate about using data to improve health outcomes. Utilizing my physiotherapy background, I assist health research initiatives in analyzing and interpreting structured and unstructured data in order to develop data-driven solutions. 
+I'm a Data Scientist based in Canada, an insatiable learner and data-driven problem-solver, I thrive on tackling complex challenges and uncovering hidden insights. As a data analytics professional, I bring a unique combination of technical skills and creative thinking to discover patterns and trends in data. Additionally, my passion for cybersecurity has given me a deep understanding of the importance of protecting sensitive information and staying ahead of emerging cyber threats. 
 
-I recently completed my masters degree in Kinesiology, where my thesis was based on using machine learning in R to improve the accuracy of accelerometers and wearable devices in identifying physical activity. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
+Whether analyzing data, exploring new technologies or keeping up with the latest in cybersecurity, I always seek opportunities to expand my knowledge and skills. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
 
 
-### Connect with me!
+### Let's connect and see what we can achieve together! 
+
 
 [![Imgur](https://i.imgur.com/C1CYjLn.png)](https://twitter.com/bint_musa_) [![Imgur](https://i.imgur.com/e4kdLvk.png)](https://www.linkedin.com/in/sumayyahmusa/) [![Imgur](https://i.imgur.com/GUv4w1E.png)](mailto:physiosummy@gmail.com)
 
