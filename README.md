@@ -55,9 +55,9 @@ The ANOVA analysis showed that yoga was the most beneficial form of reducing str
 
 ## Publications
 
-- [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
+- Musa, S. B., Ellis, R., Chafe, B., Sturrock, S. L., Maher, R. A., Cullen, K., and Fuller, D. (2023). [Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review. Journal of Physical Activity and Health 20, 2, 100-105](https://doi.org/10.1123/jpah.2022-0160)
 
-- _(Submitted)_ Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review (2022). __Musa S__, Ellis R, Chafe B, Sturrock S L, Maher R A, Kim K, Fuller D. 
+- [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
 
 - _(Submitted)_ Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition (2022) Authors: Arnab Barua, Daniel Fuller, __Musa Sumayyah Bamidele__, Xianta Jiang
 
