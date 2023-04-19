@@ -55,7 +55,7 @@ The ANOVA analysis showed that yoga was the most beneficial form of reducing str
 
 ## Publications
 
-- Musa, S. B., Ellis, R., Chafe, B., Sturrock, S. L., Maher, R. A., Cullen, K., and Fuller, D. (2023). [Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review. Journal of Physical Activity and Health 20, 2, 100-105](https://doi.org/10.1123/jpah.2022-0160)
+- Musa, S. B., Ellis, R., Chafe, B., Sturrock, S. L., Maher, R. A., Cullen, K., and Fuller, D. (2023). [Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review.](https://doi.org/10.1123/jpah.2022-0160) *Journal of Physical Activity and Health 20, 2, 100-105*
 
 - [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
 
