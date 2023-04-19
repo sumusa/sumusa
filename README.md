@@ -15,12 +15,33 @@ Whether analyzing data, exploring new technologies or keeping up with the latest
 * Python (4 years)
 * R (3 years)
 * SQL (2 years)
-* Tableau (2 years)
-* Spreadsheets 
-* Git
+* Tableau/Looker (2 years)
+* Excel/Spreadsheets/Google Sheets 
+* Jupyter Notebook / R Studio
+* Git/GitHub
+* Microsoft Office/Google Suites
+
+
+## Data Science & Statistical Methods 
+* Probability & Statistics
+* Data Science Lifecycle
+    - Business/Data Understanding
+    - Data Preparation
+    - Exploratory Data Analysis (EDA)
+    - Data Modelling
+    - Model Evaluation & Deployment 
+* Machine Learning
+* A/B Testing 
+* Hypothesis testing 
+* Version Control
 
 
 ## Projects 
+
+### Settlement Support Tool for New Immigrants to Canada • [Project Summary Datafolio](https://c1-connect.com/profile/sumayyah-musa/projects/8907d5cf-5ddf-447d-9852-3dadd6286685) • [Tableau Dashboard](https://public.tableau.com/app/profile/sumayyah.musa/viz/Team6DS4A/Overview)
+
+This project was carried out a sa requirement for the completion of my recent data science fellowship with Correlation One. I worked effectively with five individuals to build an interactive dashboard on Tableau for prospective immigrants to Canada to learn about the financial and cultural aspects of the province they are considering moving to.
+
 
 ### Physical Activity Behaviours of Older Adults • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
 
