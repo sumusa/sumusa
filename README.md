@@ -1,70 +1,47 @@
-## Hi there 👋
+![MasterHead](https://i.imgur.com/gRPrqE8.png)
 
-I'm a Data Scientist based in Canada, an insatiable learner and data-driven problem-solver, I thrive on tackling complex challenges and uncovering hidden insights. As a data analytics professional, I bring a unique combination of technical skills and creative thinking to discover patterns and trends in data. Additionally, my passion for cybersecurity has given me a deep understanding of the importance of protecting sensitive information and staying ahead of emerging cyber threats. 
+<h1 align="center">Hi 👋, I'm Sumayyah.</h1>
+<h3 align="center">Aspiring Full Stack Developer | Security+ Certified</h3>
 
-Whether analyzing data, exploring new technologies or keeping up with the latest in cybersecurity, I always seek opportunities to expand my knowledge and skills. When I'm not in front of a computer, you can find me at a martial arts class or out for a walk in the park.
+I'm a physiotherapy professional with a passion for technology and a drive to become a skilled full stack developer. Currently enrolled in the Get Coding program, I'm immersing myself in the world of web development, learning JavaScript and gearing up to explore frameworks like React, Express.js, and Node.js.
 
+With certifications in Security+ and Microsoft Azure Fundamentals, I bring a unique blend of healthcare expertise and tech knowledge to my coding journey. My goal is to become a well-rounded full stack developer, adept at building innovative digital solutions that make a positive impact.
 
-### Let's connect and see what we can achieve together! 
+When I'm not coding, you can find me exploring the outdoors, staying active, and connecting with fellow tech enthusiasts.
 
+## Projects
 
-[![Imgur](https://i.imgur.com/C1CYjLn.png)](https://twitter.com/bint_musa_) [![Imgur](https://i.imgur.com/e4kdLvk.png)](https://www.linkedin.com/in/sumayyahmusa/) [![Imgur](https://i.imgur.com/GUv4w1E.png)](mailto:physiosummy@gmail.com)
+- BizTrack | Small Business Management --- [DEMO](https://sumusa.github.io/biztrack/) || [View Code](https://github.com/sumusa/biztrack)
 
+- Rock Paper Scissors Game --- [DEMO](https://sumusa.github.io/rock-paper-scissors-game) || [View Code](https://github.com/sumusa/rock-paper-scissors-game)
 
-## Tools I use
-* Python (4 years)
-* R (3 years)
-* SQL (2 years)
-* Tableau/Looker (2 years)
-* Excel/Spreadsheets/Google Sheets 
-* Jupyter Notebook / R Studio
-* Git/GitHub
-* Microsoft Office/Google Suites
+- Simple Calendar Web App --- [DEMO](https://sumusa.github.io/simple-calendar-app/) || [View Code](https://github.com/sumusa/simple-calendar-app)
 
+- Personal Landing Page --- [DEMO](https://sumusa.github.io/landing-page/) || [View Code](https://github.com/sumusa/landing-page)
 
-## Data Science & Statistical Methods 
-* Probability & Statistics
-* Data Science Lifecycle
-    - Business/Data Understanding
-    - Data Preparation
-    - Exploratory Data Analysis (EDA)
-    - Data Modelling
-    - Model Evaluation & Deployment 
-* Machine Learning
-* A/B Testing 
-* Hypothesis testing 
-* Version Control
+- Food Recipe Website --- [DEMO](https://sumusa.github.io/recipe-project/) || [View Code](https://github.com/sumusa/recipe-project)
 
+## Connect with me
 
-## Projects 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumayyahmusa)
 
-### Settlement Support Tool for New Immigrants to Canada • [Project Summary Datafolio](https://c1-connect.com/profile/sumayyah-musa/projects/8907d5cf-5ddf-447d-9852-3dadd6286685) • [Tableau Dashboard](https://public.tableau.com/app/profile/sumayyah.musa/viz/Team6DS4A/Overview)
+## Stats
 
-This project was carried out a sa requirement for the completion of my recent data science fellowship with Correlation One. I worked effectively with five individuals to build an interactive dashboard on Tableau for prospective immigrants to Canada to learn about the financial and cultural aspects of the province they are considering moving to.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumusa&hide_progress=true)
 
-
-### Physical Activity Behaviours of Older Adults • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/regression.md)
-
-This project examines the relationship between exercise barriers, motivation to exercise, exercise self-efficacy and the level of participation in leisure physical activity of older adults in Canada. It also uses these variables to predict the number of times an older adult would participate in physical activity for more than 15 minutes in a given week. The final regression model's F-ratio was 8.2.
-
-
-### Effects of guided imagery, yoga and placebo on Stress • [R Notebook](https://github.com/sumusa/quantitative-research-methods/blob/master/anova.md)
-The project's goal was to examine the effects of placebo, guided imagery and yoga on the stress level of individuals. The participants were divided into three groups and received either of the three interventions - placebo, guided imagery or yoga for six months, after which their stress level was measured and given a score. There was a total of 30 participants, 10 in each group.
-The ANOVA analysis showed that yoga was the most beneficial form of reducing stress levels. Participants in the placebo group had the highest stress scores, while those in the yoga group had the lowest stress scores. The difference between yoga and guided imagery was not statistically significant, even though it was clinically significant.
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumusa)](https://git.io/streak-stats)
 
 ## Publications
 
-- Musa, S. B., Ellis, R., Chafe, B., Sturrock, S. L., Maher, R. A., Cullen, K., and Fuller, D. (2023). [Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review.](https://doi.org/10.1123/jpah.2022-0160) *Journal of Physical Activity and Health 20, 2, 100-105*
+- Musa, S. B., Ellis, R., Chafe, B., Sturrock, S. L., Maher, R. A., Cullen, K., and Fuller, D. (2023). [Wearable Device Validity in Measuring Steps, Energy Expenditure, and Heart Rate Across Age, Gender, and Body Mass Index: Data Analysis From a Systematic Review.](https://doi.org/10.1123/jpah.2022-0160) _Journal of Physical Activity and Health 20, 2, 100-105_
 
-- [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; __Musa, S.__ *Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021*
+- [Unmasking the Truth: A Longitudinal Study Examining Workplace Protective Strategies and Working Arrangements and Their Impact on Workers' Health, Safety, and Productivity in Newfoundland and Labrador.](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1571285) Cullen, K.; Ford, D. P.; Butt, A.; **Musa, S.** _Occupational and Environmental Medicine; 78(SUPPL 1): A120-A121, 2021_
 
-- _(Submitted)_ Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition (2022) Authors: Arnab Barua, Daniel Fuller, __Musa Sumayyah Bamidele__, Xianta Jiang
+- Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition (2022) Authors: Arnab Barua, Daniel Fuller, **Musa Sumayyah Bamidele**, Xianta Jiang
 
+#### Thanks for checking out my profile!
 
-
-
-
+![Visitor Count](https://profile-counter.glitch.me/sumusa/count.svg)
 
 <!--
 **sumusa/sumusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
