@@ -13,6 +13,7 @@ When I'm not coding, you can find me exploring the outdoors, staying active, and
 
 - BizTrack | Small Business Management --- [DEMO](https://sumusa.github.io/biztrack/) || [View Code](https://github.com/sumusa/biztrack)
 
+<!--
 - Rock Paper Scissors Game --- [DEMO](https://sumusa.github.io/rock-paper-scissors-game) || [View Code](https://github.com/sumusa/rock-paper-scissors-game)
 
 - Simple Calendar Web App --- [DEMO](https://sumusa.github.io/simple-calendar-app/) || [View Code](https://github.com/sumusa/simple-calendar-app)
@@ -20,6 +21,7 @@ When I'm not coding, you can find me exploring the outdoors, staying active, and
 - Personal Landing Page --- [DEMO](https://sumusa.github.io/landing-page/) || [View Code](https://github.com/sumusa/landing-page)
 
 - Food Recipe Website --- [DEMO](https://sumusa.github.io/recipe-project/) || [View Code](https://github.com/sumusa/recipe-project)
+-->
 
 ## Connect with me
 
